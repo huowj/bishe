@@ -24,3 +24,17 @@
 [14] A. Makanju, A. Zincir-Heywood, and E. Milios, “Clustering event logs using iterative partitioning,” in KDD’09: Proc. of International Conference on Knowledge Discovery and Data Mining, 2009.
 
 [15] L. Tang, T. Li, and C. Perng, “LogSig: generating system events from raw textual logs,” in CIKM’11: Proc. of ACM International Conference on Information and Knowledge Management, 2011, pp. 785–794.
+
+### Real-time log ﬁle analysis using the Simple Event Correlator (SEC)
+
+- This paper describes some of the current issues in log analysis and presents the rationale behind an analysis rule set developed at the Computer Science Department at the University of Massachusetts at Boston.
+- This ruleset is implemented for the Simple Event Correlator (SEC), which is a Perl based tool designed to perform analysis of plain text logs.
+
+### Spell: Online Streaming Parsing of Large Unstructured System Logs
+
+- We propose an online streaming method Spell, which utilizes a longest common subsequence based approach, to parse system event logs.
+
+### LogLens: A Real-time Log Analysis System
+
+- In this paper, we present a real-time log analysis system called LogLens that automates the process of anomaly detection from logs with no (or minimal) target system knowledge and user specification.
+- 

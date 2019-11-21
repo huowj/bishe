@@ -26,3 +26,10 @@
 - program verification
 - problem diagnosis
 - security assurance
+
+### Spell: Online Streaming Parsing of Large Unstructured System Logs
+
+- detect execution anomalies
+- monitor network failures
+- find software bugs
+- 
