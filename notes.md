@@ -38,3 +38,8 @@
 
 - In this paper, we present a real-time log analysis system called LogLens that automates the process of anomaly detection from logs with no (or minimal) target system knowledge and user specification.
 - 
+
+
+### A Survey of Outlier Detection Methodologies (Reprint)
+
+- In this paper, we introduce a survey of contemporary techniques for outlier detection.
